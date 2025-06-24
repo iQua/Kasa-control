@@ -5,3 +5,8 @@ Git repository for useful scripts to control Kasa smart devices
 ```
 pip install python-kasa
 ```
+And then run 
+```
+python kasa-control.py
+```
+and follow the instructions.
