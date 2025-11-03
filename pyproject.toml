@@ -1,0 +1,11 @@
+[project]
+name = "kasa-control"
+version = "0.1"
+description = "Kasa Control"
+readme = "README.md"
+requires-python = ">=3.13"
+license = "Apache-2.0"
+
+dependencies = [
+    "python-kasa",
+]
